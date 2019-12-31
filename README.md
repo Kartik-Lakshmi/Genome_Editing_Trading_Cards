@@ -1,6 +1,16 @@
 # GenomeEditingTradingCards
 Meganucleases|ZFNs|TALENs|CRISPR-Cas|BaseEditors|PrimeEditor
 
+## References
+
+- [PDB files](https://www.rcsb.org/)
+  - Meganuclease: [3MX9](https://www.rcsb.org/structure/3MX9)
+  - Zinc Finger Nucleases: [1P47](https://www.rcsb.org/structure/1P47), [1FOK](https://www.rcsb.org/structure/1FOK)
+  - TALENs: [3UGM](https://www.rcsb.org/structure/3UGM), [1FOK](https://www.rcsb.org/structure/1FOK)
+  - CRISPR-Cas: [5Y36](https://www.rcsb.org/structure/5Y36)
+  - Base Editors: [1Z3A](https://www.rcsb.org/structure/1z3a), [5Y36](https://www.rcsb.org/structure/5Y36)
+  - Prime Editor: [1RTD](https://www.rcsb.org/structure/1RTD), [5Y36](https://www.rcsb.org/structure/5Y36)
+
 ## License
 
 **Code**: All of the code in this repository is shared under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0).
