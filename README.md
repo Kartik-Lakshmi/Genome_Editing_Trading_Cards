@@ -10,6 +10,12 @@ Meganucleases|ZFNs|TALENs|CRISPR-Cas|BaseEditors|PrimeEditor
   - CRISPR-Cas: [5Y36](https://www.rcsb.org/structure/5Y36)
   - Base Editors: [1Z3A](https://www.rcsb.org/structure/1z3a), [5Y36](https://www.rcsb.org/structure/5Y36)
   - Prime Editor: [1RTD](https://www.rcsb.org/structure/1RTD), [5Y36](https://www.rcsb.org/structure/5Y36)
+ 
+- [Applications of Alternative Nucleases in the Age of CRISPR/Cas9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751168/)
+ 
+- [UCSF Chimera](https://www.ncbi.nlm.nih.gov/pubmed/15264254) developed by the UCSF Resource for Biocomputing, Visualization, and Informatics, supported in part by the National Institutes of Health. 
+
+- [Inkscape](https://inkscape.org/)
 
 ## License
 
