@@ -17,6 +17,8 @@ Meganucleases|ZFNs|TALENs|CRISPR-Cas|BaseEditors|PrimeEditor
 
 - [Inkscape](https://inkscape.org/)
 
+- **Advice**: Thank you to Professor Francesco Paesani and Professor Alexis Komor helpful advice in making this map.
+
 ## License
 
 **Code**: All of the code in this repository is shared under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0).
