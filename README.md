@@ -24,7 +24,7 @@ This repository contains the genome editing trading cards that is made using ope
 
 - [Inkscape](https://inkscape.org/)
 
-- **Advice**: Thank you to Professor Francesco Paesani and Professor Alexis Komor helpful advice in making this map.
+- **Advice**: Thank you to Professor Francesco Paesani and Professor Alexis Komor helpful advice in making these cards.
 
 ## License
 
