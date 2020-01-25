@@ -2,11 +2,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kartik_lakshmi.svg?style=flat-square&logo=twitter&label=Follow)](https://twitter.com/kartik_lakshmi)
 [![GitHub Follow](https://img.shields.io/github/followers/Kartik-Lakshmi.svg?style=flat-square&logo=github&label=Follow)](https://github.com/Kartik-Lakshmi)
 
-
 # Genome Editing Trading Cards
 This repository contains the genome editing trading cards that is made using open-source data from the [RCSB PDB](https://www.rcsb.org/). Software used includes `Chimera` and `Inkscape`.
 
 `Meganucleases` `ZFNs` `TALENs` `CRISPR-Cas` `BaseEditors` `PrimeEditor`
+## Credits
+Credit should be given to Kartik Lakshmi Rallapalli (@kartik_lakshmi), Paesani Lab (@PaesaniLab) and Komor Lab (@KomorLab).
 
 ## References
 
