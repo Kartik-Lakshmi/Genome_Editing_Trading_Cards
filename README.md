@@ -7,7 +7,7 @@ This repository contains the genome editing trading cards that is made using ope
 
 `Meganucleases` `ZFNs` `TALENs` `CRISPR-Cas` `BaseEditors` `PrimeEditor`
 ## Credits
-Credit should be given to Kartik Lakshmi Rallapalli (@kartik_lakshmi), Paesani Lab (@PaesaniLab) and Komor Lab (@KomorLab).
+Credit should be given to Kartik Lakshmi Rallapalli (`@kartik_lakshmi`), Paesani Lab (`@PaesaniLab`) and Komor Lab (`@KomorLab`).
 
 ## References
 
